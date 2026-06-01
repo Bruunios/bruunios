@@ -1,11 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header" width="100%" />
-
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Ol%C3%A1%2C+eu+sou+o+Bruno+Cicero+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-Estudante de **Análise e Desenvolvimento de Sistemas** · Co-fundador do [Sangue Herói](https://github.com/brunocicero) · São Paulo, BR
-
+Estudante de **Análise e Desenvolvimento de Sistemas** · Co-fundador do [Sangue Herói](https://bruunios.github.io/Sangue-Heroi/) · São Paulo, BR
 </div>
 
 ---
@@ -14,7 +10,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** · Co-fundador do [Sangu
 
 Sou tecnólogo em Desenvolvimento de Sistemas pela **ETEC Abdias do Nascimento** e atualmente curso **ADS na Cruzeiro do Sul**. Participei de campeonatos de programação no-code como o **Hack/Abdias** e fui selecionado para o programa **EmpreendeSim** da USP, focado em criar aplicativos que resolvem problemas reais.
 
-Fui co-fundador do **Sangue Herói**, um app de conscientização sobre doação de sangue que nasceu em um Hackathon, virou meu TCC e ganhou destaque na **CNN** e no **Governo de São Paulo**.
+Fui co-fundador do **Sangue Herói**, um app de conscientização sobre doação de sangue que nasceu em um Hackathon, virou meu TCC e ganhou destaque na **[CBN](https://cbn.globo.com/programas/cbn-sao-paulo/entrevista/2024/03/16/doacao-de-sangue-alunos-de-escola-tecnica-em-sp-criam-aplicativo-para-incentivar-doadores.ghtml)** e no **Governo de São Paulo**.
 
 ---
 
@@ -38,9 +34,9 @@ Fui co-fundador do **Sangue Herói**, um app de conscientização sobre doação
 
 <div align="center">
 
-| 🩸 Sangue Herói |
+| 🩸 [Sangue Herói](https://bruunios.github.io/Sangue-Heroi/) |
 |:---|
-| App de conscientização sobre doação de sangue. Começou em um Hackathon, virou TCC e recebeu cobertura da **CNN** e do **Governo de SP**. |
+| App de conscientização sobre doação de sangue. Começou em um Hackathon, virou TCC e recebeu cobertura da **[CBN](https://cbn.globo.com/programas/cbn-sao-paulo/entrevista/2024/03/16/doacao-de-sangue-alunos-de-escola-tecnica-em-sp-criam-aplicativo-para-incentivar-doadores.ghtml)** e do **Governo de SP**. |
 
 </div>
 
@@ -62,5 +58,4 @@ Fui co-fundador do **Sangue Herói**, um app de conscientização sobre doação
 ![Visitors](https://komarev.com/ghpvc/?username=brunocicero&color=7C3AED&style=flat-square&label=visitantes)
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" width="100%" />
