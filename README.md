@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header" width="100%" />
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Ol%C3%A1%2C+eu+sou+o+Bruno+Cicero+%F0%9F%91%8B)](https://git.io/typing-svg)
-Estudante de **Análise e Desenvolvimento de Sistemas** · Co-fundador do [Sangue Herói](https://bruunios.github.io/Sangue-Heroi/) · São Paulo, BR
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Ol%C3%A1%2C+eu+sou+o+Bruno+Cicero+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
+Estudante de **Análise e Desenvolvimento de Sistemas** · Co-fundador do <a href="https://bruunios.github.io/Sangue-Heroi/">Sangue Herói</a> · São Paulo, BR
+
 </div>
 
 ---
